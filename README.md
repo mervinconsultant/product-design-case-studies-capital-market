@@ -29,7 +29,7 @@ and helping users make faster, more informed decisions.
 
 ### Delta Exchange — Faster Access to the Markets That Matter
 
-**Fintech · Crypto Trading · UX Audit**
+Fintech · Crypto Trading · UX Audit
 
 A UX audit of Delta Exchange focused on the watchlist experience.
 
@@ -40,7 +40,7 @@ to access their preferred markets.
 The proposed solution was a dedicated **Favorites** tab that brings
 all starred assets into one persistent view.
 
-**Focus**
+Focus
 
 - UX Audit
 - Heuristic Analysis
@@ -81,13 +81,13 @@ focused Product Design projects.
 
 Engagements can be structured around:
 
-**Fixed-Scope Projects**  
+Fixed-Scope Projects
 Clearly defined product problems, deliverables and timelines.
 
-**Milestone-Based Projects**  
+Milestone-Based Projects
 Payments linked to agreed project milestones and deliverables.
 
-**Fixed Monthly Project Fees**  
+Fixed Monthly Project Fees  
 A defined project scope delivered over an agreed number of months.
 
 I work remotely and asynchronously, with agreed review points
@@ -116,9 +116,8 @@ If you're building a trading, fintech or capital-market product
 and need experienced Product Design support for a specific
 initiative, I'd be happy to discuss the problem.
 
-**Available for remote project-based engagements with companies
-in the US and Canada.**
+Available for remote project-based engagements
 
-**LinkedIn:** [Your LinkedIn]
+LinkedIn: https://www.linkedin.com/in/mervin-jadhav-063474289/
 
-**Email:** [Your Email]
+Email: mervin.consultant@gmail.com
