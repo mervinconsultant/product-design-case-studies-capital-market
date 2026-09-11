@@ -1,9 +1,10 @@
 # Product Design Case Studies
 
-### Trading · Fintech · Capital Markets
+### Independent Product Design Consultant · Trading · Fintech · Capital Markets
 
-A collection of Product Design case studies focused on solving complex
-UX problems across trading and financial products.
+Selected Product Design case studies focused on simplifying complex 
+workflows and improving user experiences across trading, fintech and 
+capital market products.
 
 My work combines product thinking, UX strategy, information architecture,
 interaction design and high-fidelity UI design to create clearer,
