@@ -54,7 +54,7 @@ Focus
 A simpler watchlist structure that reduces navigation friction and
 gives traders faster access to their most-watched markets.
 
-[View Case Study](./delta-exchange/Delta-Exchange-UX-Audit.pdf)
+[View Case Study →](./delta-exchange/)
 
 ---
 
